@@ -1,10 +1,10 @@
 # Submission
 
 <!-- This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models", which has been submitted to CCS 2025. -->
-This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models", which has been submitted to CCS 2025.
+This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models".
 ## Running examples
 
-    See the README.md file under each attack file
+    See the README.md under each attack file
 
 ## Generative diffusion model  
 
