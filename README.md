@@ -1,7 +1,7 @@
 # Submission
 
 <!-- This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models", which has been submitted to CCS 2025. -->
-This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models", which has been accepted by USENIX 2025.
+This is the implementation for our paper "Inference Attacks Against Graph Generative Diffusion Models", which has been accepted by USENIX 2026.
 ## Running examples
 
     See the README.md under each attack and defense file
