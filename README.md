@@ -8,15 +8,15 @@ This is the implementation for our paper "Inference Attacks Against Graph Genera
 
 ## Generative diffusion model  
 
-The original implemenation of EDP-GNN model we used in the paper can be found here:
+The original implementation of EDP-GNN model we used in the paper can be found here:
 
 - https://github.com/ermongroup/GraphScoreMatching
 
-The original implemenation of GDSS model we used in the paper can be found here:
+The original implementation of GDSS model we used in the paper can be found here:
 
 - https://github.com/harryjo97/GDSS
 
-The original implemenation of Digress models we used in the paper can be found here:
+The original implementation of Digress models we used in the paper can be found here:
 
 - https://github.com/cvignac/DiGress
 
